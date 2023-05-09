@@ -37,7 +37,7 @@ Solution URL: [https://seismicman.github.io/06-Order-Summary-Component/](https:/
 
 ### What I learned
 
-Although this is a project that mainly we can develop in HTML and CSS, I developed it in React as an unique component and CSS for the styles. The most important part was how manage images in CCS using "background-image" and hover status in different elements. Also, it was very useful to understand Flexbox to organize the different components of the User Interface and the use of media queries to switch between desktop and mobile versions.
+Although this is a project that mainly we can develop in HTML and CSS, I developed it in React as an unique component and CSS for the styles. The most important part was how do we overlay a background image in CSS. Also, it was very useful to understand Flexbox to organize the different components of the User Interface and the use of media queries to switch between desktop and mobile versions.
 
 ### Continued development
 
