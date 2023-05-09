@@ -24,7 +24,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/06-Order-Summary-Component/](https://seismicman.github.io/06-Order-Summary-Component/)
+Solution URL: [https://seismicman.github.io/07-Stats-Preview-Card_Component/](https://seismicman.github.io/07-Stats-Preview-Card_Component/)
 
 ## My process
 
